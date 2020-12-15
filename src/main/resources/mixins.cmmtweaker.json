@@ -1,0 +1,12 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "net.watersfall.cmmtweaker.mixin",
+  "refmap": "mixins.cmmtweaker.refmap.json",
+  "mixins": [
+    "ButtonMixin",
+    "GuiConfigMixin",
+    "GuiCustomButtonMixin"
+  ],
+  "client": [],
+  "server": []
+}
